@@ -1,0 +1,21 @@
+Simeon Mpamugoh
+A Nigerian sensational rapper, singer and songwriter Nappy Boy has
+dropped two new singles. Entitled ’Monalisa’ and ‘Friends are bad’,
+the singles were  follow up to his fans’ favourite single, “She didn’t
+know.” With the two new music videos on parade, the king of new wave
+is giving his fans a treat of his creative works and something to
+relish in the music industry.
+‘Monalisa’ is an amazing Afrobeat-inspired tune coming as part of
+his signature tunes. In the video, Nappy flaunts affluence with
+references to Gucci Bags and Versace while he adores a girl so
+beautiful that he calls her Monalisa.
+The video was shot and directed in Nigeria by Unlimited LA. His second
+single, “Friends are Bad,” is an  inspired hip hop  tune produced by
+Chikky Chizzy. Nappy is in touch with his emotions as he delivers
+rhymes and melodies in a true pop star fashion.
+The video was shot and directed in South Africa by Kyle White.  “I am
+working hard to make my upcoming EP another wow for my numerous fans
+across the globe, because their response and yell-for-more is the
+reason I am dedicated to giving them the best. My fans are too dear to
+me,” Nappy Boy said in a short comment on the release of these
+singles. function insertAfter(e,t){t.parentNode.insertBefore(e,t.nextSibling)}function getElementByXPath(e,t){if(!t)t=document;if(t.evaluate)return t.evaluate(e,document,null,9,null).singleNodeValue;while(e.charAt(0)=="/")e=e.substr(1);var n=t;var r=e.split("/");for(var i=0;i<r.length;i++){var a=r[i].split(/(\w*)\[(\d*)\]/gi).filter(function(e){return!(e==""||e.match(/\s/gi))},this);var l=a[0];var o=a[1]?a[1]-1:0;if(i<r.length-1)n=n.getElementsByTagName(l)[o];else return n.getElementsByTagName(l)[o]}}if(!Array.prototype.filter){Array.prototype.filter=function(e){var t=this.length>>>0;if(typeof e!="function"){throw new TypeError}var n=[];var r=arguments[1];for(var i=0;i<t;i++){if(i in this){var a=this[i];if(e.call(r,a,i,this)){n.push(a)}}}return n}}function injectWidgetByXpath(e){var t=getElementByXPath(e);if(t==null){t=document.getElementById("tbdefault")}innerInject(t)}function injectWidgetByMarker(e){var t=document.getElementById(e);innerInject(t.parentNode)}function innerInject(e){var t=document.createElement("span");var n=document.createElement("script");var r="if JS crashes here, the first innerHTML value should be enclosed with single quotes instead of double, go to the minified version and change it";t.innerHTML="<div id='taboola-below-article'></div><div id='taboola-below-article-second'></div>";n.innerHTML="window._taboola = window._taboola || [];_taboola.push({mode:'thumbnails-c', container:'taboola-below-article', placement:'below-article', target_type: 'mix'});window._taboola = window._taboola || [];_taboola.push({mode:'thumbnails-d', container:'taboola-below-article-second', placement:'below-article-2nd', target_type: 'mix'});";insertAfter(t,e);insertAfter(n,t)}injectWidgetByMarker('tbmarker');
